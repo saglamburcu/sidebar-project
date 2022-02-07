@@ -11,7 +11,7 @@ closeButton.addEventListener("click", function() {
     sideBar.classList.remove("sideBar-show")
 })
 
-let menuItems = document.querySelector(".menu-items")
+
 let list = document.querySelectorAll(".list")
 
 // for(let i=0; i<list.length; i++) {
